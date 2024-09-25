@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.second_datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second_datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.second_datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second_datasource.url'"
+  },
+  {
+    "name": "spring.second_datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second_datasource.username'"
+  },
+  {
+    "name": "spring.second_datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.second_datasource.password'"
+  }
+]}
